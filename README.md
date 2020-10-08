@@ -18,7 +18,7 @@ coordination and progress tracking.
 
 The key part of the roadmap is the milestones overview:
 
-- [Milestones](https://github.com/lnielsen/product-rdm/milestones?direction=asc&sort=due_date&state=open)
+- [Milestones](https://github.com/inveniosoftware/product-rdm/milestones?direction=asc&sort=due_date&state=open)
 
 #### Issues
 
