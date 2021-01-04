@@ -40,6 +40,7 @@ following definitions:
 - *M*: 2 person weeks
 - *L*: 4 person weeks
 - *XL*: 8 person weeks
+- *XXL*: 16 person weeks
 
 **Other**
 
